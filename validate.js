@@ -17,7 +17,7 @@ function checkSID() {
 	  return true;
 	}
   }
-  
+  //
   function validateForm(){
 	  if(!checkSID()){
 		alert("Invalid value for Student ID!");
